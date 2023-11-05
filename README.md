@@ -1,7 +1,6 @@
 <img src="https://github.com/zakaria-alx/AirBnB_clone_v4/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 # AirBnB Clone: Phase # 4
-
 Web dynamic with JQuery
 
 ## Description
